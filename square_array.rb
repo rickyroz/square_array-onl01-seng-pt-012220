@@ -1,4 +1,4 @@
-def square_num(num)
+def square_array()
   num = []
   num.each do |n|
     new_array << n ** 2
